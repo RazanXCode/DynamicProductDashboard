@@ -1,0 +1,6 @@
+@DynamicProductDashboard_HostAddress = http://localhost:5270
+
+GET {{DynamicProductDashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
